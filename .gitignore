@@ -21,3 +21,8 @@ config.json
 # Exclure les fichiers temporaires de OneDrive
 *.lnk
 *.ini
+# Ignorer le dossier Qwen2.5-32B
+Qwen2.5-32B/
+
+# Ignorer les fichiers de données CSV
+*.csv
