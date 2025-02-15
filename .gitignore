@@ -1,0 +1,23 @@
+# Ignorer les fichiers compilés
+*.o
+*.pyc
+*.class
+
+# Ignorer les fichiers logs et temporaires
+*.log
+*.tmp
+*.bak
+
+# Ignorer les fichiers de configuration IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Ignorer les fichiers contenant des identifiants
+.env
+*.key
+*.pem
+config.json
+# Exclure les fichiers temporaires de OneDrive
+*.lnk
+*.ini
