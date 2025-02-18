@@ -26,3 +26,5 @@ Qwen2.5-32B/
 
 # Ignorer les fichiers de données CSV
 *.csv
+*.xlsx
+
